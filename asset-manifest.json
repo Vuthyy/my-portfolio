@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Vuthyy/my-portfolio/static/css/main.f3e8e1c7.css",
+    "main.js": "/Vuthyy/my-portfolio/static/js/main.5c281ab1.js",
+    "static/js/453.95b40626.chunk.js": "/Vuthyy/my-portfolio/static/js/453.95b40626.chunk.js",
+    "static/media/about.jpg": "/Vuthyy/my-portfolio/static/media/about.fe00e699a600eb139611.jpg",
+    "static/media/Vuthy-Cv.pdf": "/Vuthyy/my-portfolio/static/media/Vuthy-Cv.76e98eec759f1dd81dbb.pdf",
+    "static/media/profile.jpg": "/Vuthyy/my-portfolio/static/media/profile.6e3089156c7a99ac119a.jpg",
+    "static/media/testimonial3.png": "/Vuthyy/my-portfolio/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/Vuthyy/my-portfolio/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/Vuthyy/my-portfolio/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/Vuthyy/my-portfolio/index.html",
+    "main.f3e8e1c7.css.map": "/Vuthyy/my-portfolio/static/css/main.f3e8e1c7.css.map",
+    "main.5c281ab1.js.map": "/Vuthyy/my-portfolio/static/js/main.5c281ab1.js.map",
+    "453.95b40626.chunk.js.map": "/Vuthyy/my-portfolio/static/js/453.95b40626.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3e8e1c7.css",
+    "static/js/main.5c281ab1.js"
+  ]
+}
